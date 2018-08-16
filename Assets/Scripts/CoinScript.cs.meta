@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa0bdab67b451c14a83113e991c2d29e
+timeCreated: 1478821371
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerScore: {instanceID: 0}
+  - EnemyScore: {instanceID: 0}
+  - Coin: {fileID: 1000011351848332, guid: 94d1ca83bdd11c040a85a0f7659a755f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
